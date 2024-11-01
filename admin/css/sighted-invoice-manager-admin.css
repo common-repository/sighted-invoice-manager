@@ -1,0 +1,12 @@
+.sighted-invoice-manager .postbox { padding:1em; }
+
+@media (min-width:782px) and (min-device-width:782px) {
+  .edit-php.post-type-sim-invoice th.column-invoice_date { width: 120px; }
+  .edit-php.post-type-sim-invoice th.column-access_code { width: 120px; }
+  .edit-php.post-type-sim-invoice th.column-total { width: 120px; }
+  .edit-php.post-type-sim-invoice th.column-custom-taxonomy-sim-client { width: 200px; }
+  .edit-php.post-type-sim-invoice th.column-payment_status { width: 200px; }
+  .edit-php.post-type-sim-invoice-logs th.column-invoice_id { width: 120px; }
+  .edit-php.post-type-sim-invoice-logs th.column-user { width: 120px; }
+  .edit-php.post-type-sim-invoice-logs th.column-custom_date { width: 200px; }
+}
